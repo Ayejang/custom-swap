@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/custom-swap/static/css/main.d7d540da.css",
+    "main.js": "/custom-swap/static/js/main.2de45b56.js",
+    "static/js/453.c0521464.chunk.js": "/custom-swap/static/js/453.c0521464.chunk.js",
+    "static/media/logo.png": "/custom-swap/static/media/logo.d1f88128fa050f1265b4.png",
+    "index.html": "/custom-swap/index.html",
+    "main.d7d540da.css.map": "/custom-swap/static/css/main.d7d540da.css.map",
+    "main.2de45b56.js.map": "/custom-swap/static/js/main.2de45b56.js.map",
+    "453.c0521464.chunk.js.map": "/custom-swap/static/js/453.c0521464.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7d540da.css",
+    "static/js/main.2de45b56.js"
+  ]
+}
